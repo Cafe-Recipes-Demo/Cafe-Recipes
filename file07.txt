@@ -6,4 +6,4 @@
 }
 
 
-Changed made for commit 2
+Changes made for commit 2
