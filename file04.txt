@@ -1,3 +1,5 @@
 File 04 updated
 
 File is updated again
+
+File modified and moved it to stage
